@@ -1,0 +1,11 @@
+So following are the development cost:-
+
+3d Enviroment and Props :- 50-60k
+
+Players and animation:- 50k
+
+2D artist and UI artist :- 45k
+
+Development cost :- 1.5L
+
+Networking Cost(for 3 months) :- around 400$
